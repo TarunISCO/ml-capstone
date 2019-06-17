@@ -6,11 +6,11 @@ In this project I'm trying to use machine learning to identify the fraud transac
 `IPython Notebook`
 
 #### Dataset
-The dataset I'm going to use can be downloaded from https://www.kaggle.com/dalpozz/creditcardfraud. The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172\% of all transactions.
+The dataset I'm going to use can be downloaded from https://www.kaggle.com/dalpozz/creditcardfraud. The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) accounts for 0.172\% of all transactions.
 
 ### Requirements
 
-Dillinger uses a number of python libraries to work properly:
+Dillinger uses a number of Python libraries to work properly:
 
 * pandas
 * numpy
@@ -24,7 +24,5 @@ Dillinger uses a number of python libraries to work properly:
 
 ### Execution
 
-1.  Download dataset file named `creditcard.csv` into a directory named `data/` inside project directory.
-2. Open `CreditCardFraudDetection.ipynb` using jupyter notebook.
-
-
+1.  Download the dataset file named `creditcard.csv` into a directory named `data/` inside the project directory.
+2.  Open `CreditCardFraudDetection.ipynb` using jupyter notebook.
